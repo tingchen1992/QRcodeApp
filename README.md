@@ -17,6 +17,7 @@
 2. 安裝套件（在終端機輸入）：
 
 `python3 -m pip install 'qrcode[pil]' pillow`
+
 3. 執行方式
 
 `python3 qr_gui.py`
